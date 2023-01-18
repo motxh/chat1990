@@ -1,0 +1,15 @@
+{
+  "Author": "Haplo064",
+  "Name": "ChatTranslator",
+  "InternalName": "ChatTranslator",
+  "AssemblyVersion": "1.2.0.0",
+  "Description": "Enables in-game chat translation.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Haplo064/ChatTranslator",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Chat translation.",
+  "AcceptsFeedback": true
+}
